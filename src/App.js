@@ -39,7 +39,7 @@ function App() {
                                 integrated it with the Auto Appeal System (AAS), developed by the National Informatics
                                 Center (NIC), Haryana, allowing students to request specific services online.</li>
                             <li>Designed and developed a Full Stack Team Management System Web Application using React,
-                                Redux, .NET Framework Restful APIs, and SQL Server.</li>
+                                 .NET Framework Restful APIs, and SQL Server.</li>
                             <li>Developed applications using ASP.NET, C#, JavaScript, and HTML.</li>
                         </ul>
                     </div>
