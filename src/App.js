@@ -143,8 +143,8 @@ function App() {
                     <p><a href="http://14.139.252.142:86/login" target="_blank">Softball Game Management System</a></p>
                     <p><a href="https://dlcsupva.ac.in" target="_blank">University Website and Admin Dashboard</a></p>
 
-                    <p><a href="https://www.crio.do/learn/portfolio/amitsaini8850/" target="_blank">My CRIO
-                            Learnings & Skills</a></p>
+                    {/* <p><a href="https://www.crio.do/learn/portfolio/amitsaini8850/" target="_blank">My CRIO
+                            Learnings & Skills</a></p> */}
                 </section>
             </div>
         </div>
