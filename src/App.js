@@ -161,6 +161,9 @@ function App() {
                     </section>
                 </div>
             </div>
+            <div class="contact-info">                
+                <p>Resume made using React JS Library </p>                
+            </div>
         </div>
 
     );
