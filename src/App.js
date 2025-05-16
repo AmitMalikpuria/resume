@@ -148,9 +148,9 @@ function App() {
                     <p><strong>React Web App:</strong></p>
                     <p>Full Stack Developed using .Net Rest APIs & React JS</a></p> */}
                         {/* <p><a href="http://14.139.252.142:86/login" target="_blank">Softball Game Management System</a></p> */}
-                        <p><a href="https://dlcsupva.ac.in" target="_blank">Website and Admin Dashboard</a></p>
-                        <p><a href="https://amberloans.com.au" target="_blank">Website React JS: Amber Loans Financial Services</a></p>
-                        <p><a href="https://amberloans.com.au/applynow" target="_blank">Amber Loans Car Loan Form Responsive Design and functionality</a></p>
+                        <p><a href="https://dlcsupva.ac.in" target="_blank" style={{color:"black"}}>Website and Admin Dashboard</a></p>
+                        <p><a href="https://amberloans.com.au" target="_blank" style={{color:"black"}}>Website React JS: Amber Loans Financial Services</a></p>
+                        <p><a href="https://amberloans.com.au/applynow" target="_blank" style={{color:"black"}}>Amber Loans Car Loan Form Responsive Design and functionality</a></p>
                     </section>
                     <section class="profiles">
                         <h2>University In House ERP Portal in React JS</h2>
@@ -159,10 +159,13 @@ function App() {
                         <p>In Development : Class Attendance System</p>
                         <p>In Development : GYM Management System</p>
                     </section>
+                    <section class="profiles">
+                        <h2><a href="https://amitmalikpuriacv.netlify.app/" target="_blank" style={{ fontWeight: "600",  color: "#b74827" }}>View My Resume Live</a></h2>
+                    </section>
                 </div>
             </div>
-            <div class="contact-info">                
-                <p>Resume made using React JS Library </p>                
+            <div class="contact-info">
+                <p><a href="https://amitmalikpuriacv.netlify.app/" target='blank' style={{ color: "black", fontWeight: "400", textDecoration: "none" }}>View My Resume</a> made using React JS Library </p>
             </div>
         </div>
 
