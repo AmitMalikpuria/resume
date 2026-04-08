@@ -111,63 +111,76 @@ function App() {
 
                 <div class="right-column">
                     <section class="skills">
-                        <h2>Learning & Skills </h2>
+                        <h2>Learning & Programming Skills </h2>
                         <ul>
-                            <li>HTML, CSS, Bootstrap</li>
-                            <li>Javascript</li>
-                            <li>ES6</li>
-                            <li>DOM Manipulation</li>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>Bootstrap</li>
+                            <li>Javascript & ES6</li>
                             <li>React JS</li>
-                            <li>Developer Tools</li>
-                            <li>CSS Flexbox</li>
-                            <li>Local Storage</li>
-                            <li>Event Handling in JS</li>
                             <li>.NET Framework Rest APIs</li>
-                            <li>C# Programming</li>
-                            <li>ASP Web Forms</li>
-                            <li>Microsoft SQL Server</li>
-                            <li><a href="https://www.crio.do/learn/portfolio/amitsaini8850/" target="_blank">My CRIO
-                                Learnings & Skills</a></li>
+                            <li>C# Programming</li>                           
+                            <li>Git Commands</li>
+                            {/* <li><a href="https://www.crio.do/learn/portfolio/amitsaini8850/" target="_blank">My CRIO
+                                Learnings & Skills</a></li> */}
                         </ul>
                     </section>
 
-                    <section class="languages">
+                  
+
+                    {/* <section class="languages">
                         <h2>Languages</h2>
                         <p>English, Hindi</p>
-                    </section>
+                    </section> */}
 
-                    <section class="languages">
-                        <h2>Languages</h2>
-                        <p>English, Hindi</p>
-                    </section>
-
-                    <section class="profiles">
+                    {/* <section class="profiles">
                         <h2>Public current Live Project & Learnings</h2>
-                        {/* <p><strong>Profiles:</strong></p> 
+                        <p><strong>Profiles:</strong></p> 
                     <p><a href="https://www.linkedin.com/in/amit-malikpuria-447119173/" target="_blank">LinkedIn</a></p>
                     <p><strong>React Web App:</strong></p>
-                    <p>Full Stack Developed using .Net Rest APIs & React JS</a></p> */}
-                        {/* <p><a href="http://14.139.252.142:86/login" target="_blank">Softball Game Management System</a></p> */}
+                    <p>Full Stack Developed using .Net Rest APIs & React JS</a></p>
+                        <p><a href="http://14.139.252.142:86/login" target="_blank">Softball Game Management System</a></p>
                         <p><a href="https://dlcsupva.ac.in" target="_blank" style={{color:"black"}}>Website and Admin Dashboard</a></p>
                         <p><a href="https://amberloans.com.au" target="_blank" style={{color:"black"}}>Website React JS: Amber Loans Financial Services</a></p>
                         <p><a href="https://amberloans.com.au/applynow" target="_blank" style={{color:"black"}}>Amber Loans Car Loan Form Responsive Design and functionality</a></p>
-                    </section>
-                    <section class="profiles">
+                    </section> */}
+                    {/* <section class="profiles">
                         <h2>University In House ERP Portal in React JS</h2>
                         <p> Completed : Student Class Scheduler </p>
                         <p>Completed : University Guest Room Booking</p>
                         <p>In Development : Class Attendance System</p>
                         <p>In Development : GYM Management System</p>
+                    </section> */}
+                    <section class="profiles">
+                        <h2>Developer Tools</h2>
+                        <p>Visual Studio 2017 and Latest Version upto 2022</p>
+                        <p>Visual Studio Code</p>
+                        <p>SQL Server</p>
+                        <p>POSTMAN</p>
                     </section>
                     <section class="profiles">
-                        <h2><a href="https://amitmalikpuriacv.netlify.app/" target="_blank" style={{ fontWeight: "600",  color: "#b74827" }}>View My Resume Live</a></h2>
+                        <h2>Hosting Platforms</h2>
+                        <p> Windows Server</p>
+                        <p>Netlify</p>
                     </section>
+                    <section class="profiles">
+                        <h2>Projects Repository</h2>
+                        <p> Github</p>                       
+
+                    </section>
+                      <section class="languages">
+                        <h2>Communication Languages</h2>
+                        <p>English, Hindi</p>
+                    </section>
+                    {/* <section class="profiles">
+                        <h2><a href="https://amitmalikpuriacv.netlify.app/" target="_blank" style={{ fontWeight: "600",  color: "#b74827" }}>View My Resume Live</a></h2>
+                    </section> */}
                 </div>
             </div>
-            <div class="contact-info">
+            {/* <div class="contact-info">
                 <p><a href="https://amitmalikpuriacv.netlify.app/" target='blank' style={{ color: "black", fontWeight: "400", textDecoration: "none" }}>View My Resume</a> made using React JS Library </p>
-            </div>
-        </div>
+            </div> */}
+        </div >
 
     );
 }
