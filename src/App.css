@@ -132,6 +132,38 @@ a:hover {
     text-decoration: underline;
 }
 
+@media print {
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .header {
+        background-color: #333 !important;
+        color: #fff !important;
+    }
+
+    .contact-info {
+        background-color: rgb(183 72 39) !important;
+        color: #fff !important;
+    }
+
+    h2,
+    .degree h3,
+    .job h3 {
+        color: rgb(183 72 39) !important;
+    }
+
+    .right-column {
+        border-left-color: #333 !important;
+    }
+
+    a {
+        color: #007bff !important;
+        text-decoration: none !important;
+    }
+}
+
 @media (max-width: 768px) {
     .main-content {
         flex-direction: column;
